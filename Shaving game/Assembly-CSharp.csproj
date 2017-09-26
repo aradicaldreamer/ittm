@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B33F5E48-11B4-2A5E-5DED-B6F620D2D303}</ProjectGuid>
+    <ProjectGuid>{B10F8D0C-C5F3-D1ED-ECC7-BB1E44EEC2FC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,9 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\DestroyCreme.cs" />
+     <Compile Include="Assets\MainManager.cs" />
      <Compile Include="Assets\Scripts\FollowMouseCursor.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/tommygraven/Desktop/Mini Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/tommygraven/Desktop/ittm/Shaving game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

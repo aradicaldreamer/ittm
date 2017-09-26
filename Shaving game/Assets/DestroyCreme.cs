@@ -30,7 +30,7 @@ public class DestroyCreme : MonoBehaviour {
 	{
 		if (col.tag == cremeBallPrefab.tag && isShaving)
 		{
-			print("destroy circle");
+			MainManager.amountShaved++;
 			Destroy(col.gameObject);
 		}
 	}

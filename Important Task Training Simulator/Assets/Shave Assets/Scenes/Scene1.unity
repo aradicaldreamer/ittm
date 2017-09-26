@@ -241,6 +241,50 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 99
       objectReference: {fileID: 0}
+    - target: {fileID: 212337798604554552, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f7cdc48407f6a42b5b57ce24d00a98ec,
+        type: 3}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 6.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4003191756693958, guid: c81f97a0ee9a34682bccc1c5ae4307f8, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4003191756693958, guid: c81f97a0ee9a34682bccc1c5ae4307f8, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: -0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 61176242576951882, guid: c81f97a0ee9a34682bccc1c5ae4307f8,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 2.58
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c81f97a0ee9a34682bccc1c5ae4307f8, type: 2}
   m_IsPrefabParent: 0
@@ -1673,7 +1717,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0.28880715, b: 0.74264705, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
